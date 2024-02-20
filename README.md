@@ -23,7 +23,17 @@ To run the project locally, follow the next steps:
 To stop the project you should type the following command in your IDE terminal: CNTRL + C on Windows or CMD + C on a Mac.
 
 ## Screenshots:
-
+![Screenshot](screenshots/Home.png)
+![Screenshot](screenshots/SignUp.png)
+![Screenshot](screenshots/SignUp-success.png)
+![Screenshot](screenshots/Login-failed.png)
+![Screenshot](screenshots/Login-success.png)
+![Screenshot](screenshots/Deposit.png)
+![Screenshot](screenshots/Deposit-success.png)
+![Screenshot](screenshots/Withdraw.png)
+![Screenshot](screenshots/Withdraw-success.png)
+![Screenshot](screenshots/Balance.png)
+![Screenshot](screenshots/All-data.png)
 
 ## Technology used:
 The technology used for this project is the following:
