@@ -1,9 +1,3 @@
-// start mongodb service
-// start docker service
-// docker run -p 27017:27017 --name badbank -d mongo
-// node mongo_test.js to run the code
-// node index.js to run the index file
-
 const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb://localhost:27017';
  
